@@ -2,7 +2,8 @@
 
 A simple, colorful Android TV launcher specifically designed for children. It provides a safe environment with access to only approved apps and PIN protection to prevent accidental exits.
 
-![Kiddo Launchpad](https://example.com/screenshot.jpg)
+![Kiddo Launchpad](![image](https://github.com/user-attachments/assets/e94bee56-5bf0-4d35-816b-651c24e8ba47)
+)
 
 ## Features
 
